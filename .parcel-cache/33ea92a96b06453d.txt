@@ -3067,7 +3067,7 @@
 117/home/juan/Downloads/test/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-fallback/index.js1651535517450066889 0
 80/home/juan/Downloads/test/node_modules/caniuse-lite/data/features/ol-reversed.js1651535517994187007 0
 74/home/juan/Downloads/test/node_modules/es-abstract/2020/BigIntBitwiseOp.js1651536237979225922 0
-46/home/juan/Downloads/test/src/pages/about.html1651537854958029840 0
+46/home/juan/Downloads/test/src/pages/about.html1651538238757468409 0
 66/home/juan/Downloads/test/node_modules/es-abstract/2015/MakeDay.js1651536238223232999 0
 77/home/juan/Downloads/test/node_modules/@babel/helper-validator-identifier/lib1651535516465849188 1
 73/home/juan/Downloads/test/node_modules/es-abstract/2021/CharacterRange.js1651536238003226620 0
@@ -3337,7 +3337,7 @@
 75/home/juan/Downloads/test/node_modules/string.prototype.trimstart/README.md1651536237775219995 0
 83/home/juan/Downloads/test/node_modules/es-abstract/2017/StrictEqualityComparison.js1651536238307235435 0
 66/home/juan/Downloads/test/node_modules/normalize-path/package.json1651535516305813731 0
-48/home/juan/Downloads/test/dist/about.bf5eaa2b.js1651537552912055424 0
+48/home/juan/Downloads/test/dist/about.bf5eaa2b.js1651538212476713219 0
 58/home/juan/Downloads/test/node_modules/tr46/lib/regexes.js1651535516645889076 0
 106/home/juan/Downloads/test/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/index.js1651535517041976800 0
 76/home/juan/Downloads/test/node_modules/es-abstract/2019/SetIntegrityLevel.js1651536238303235320 0
@@ -3554,7 +3554,7 @@
 82/home/juan/Downloads/test/node_modules/cosmiconfig/dist/getPropertyByPath.d.ts.map1651535516949956445 0
 78/home/juan/Downloads/test/node_modules/es-abstract/2016/IsGenericDescriptor.js1651536238155231028 0
 76/home/juan/Downloads/test/node_modules/csso/lib/replace/AttributeSelector.js1651535516925951126 0
-51/home/juan/Downloads/test/dist/test.59712999.js.map1651536378246904364 0
+51/home/juan/Downloads/test/dist/test.59712999.js.map1651538212524714601 0
 69/home/juan/Downloads/test/node_modules/terser/node_modules/source-map1651535516645889076 1
 87/home/juan/Downloads/test/node_modules/css-select/lib/pseudo-selectors/filters.d.ts.map1651535516981963536 0
 77/home/juan/Downloads/test/node_modules/string.prototype.trimend/.eslintignore1651536237507212210 0
@@ -3604,7 +3604,7 @@
 54/home/juan/Downloads/test/node_modules/yaml/types.d.ts1651535517418059823 0
 80/home/juan/Downloads/test/node_modules/caniuse-lite/data/features/textcontent.js1651535518202232779 0
 70/home/juan/Downloads/test/node_modules/supports-preserve-symlinks-flag1651535516605880212 1
-30/home/juan/Downloads/test/dist1651537552940056409 1
+30/home/juan/Downloads/test/dist1651538239253482632 1
 67/home/juan/Downloads/test/node_modules/es-abstract/2020/TimeClip.js1651536238339236364 0
 60/home/juan/Downloads/test/node_modules/es-abstract/es2015.js1651536238055228127 0
 59/home/juan/Downloads/test/node_modules/@parcel/packager-svg1651535516477851847 1
@@ -3618,7 +3618,7 @@
 83/home/juan/Downloads/test/node_modules/stylehacks/types/plugins/htmlFirstChild.d.ts1651535964912681419 0
 77/home/juan/Downloads/test/node_modules/@parcel/runtime-js/src/helpers/browser1651535517270027144 1
 67/home/juan/Downloads/test/node_modules/@swc/helpers/lib/_extends.js1651535517170005063 0
-36/home/juan/Downloads/test/dist/pages1651537855150035840 1
+36/home/juan/Downloads/test/dist/pages1651538239249482517 1
 78/home/juan/Downloads/test/node_modules/es-abstract/2021/Number/exponentiate.js1651536238059228244 0
 57/home/juan/Downloads/test/node_modules/is-string/index.js1651536237571214070 0
 61/home/juan/Downloads/test/node_modules/entities/lib/decode.js1651535516733908577 0
@@ -3663,7 +3663,7 @@
 56/home/juan/Downloads/test/node_modules/commander/LICENSE1651535516309814617 0
 93/home/juan/Downloads/test/node_modules/caniuse-lite/data/features/css-file-selector-button.js1651535517678117232 0
 78/home/juan/Downloads/test/node_modules/@parcel/transformer-babel/lib/config.js1651535516721905918 0
-49/home/juan/Downloads/test/dist/index.af20ad6e.css1651537552908055283 0
+49/home/juan/Downloads/test/dist/index.af20ad6e.css1651538239241482288 0
 69/home/juan/Downloads/test/node_modules/es-abstract/2020/Number/add.js1651536237963225458 0
 70/home/juan/Downloads/test/node_modules/es-abstract/2020/SecFromTime.js1651536238295235087 0
 56/home/juan/Downloads/test/node_modules/svgo/package.json1651535517594098684 0
@@ -3714,7 +3714,7 @@
 72/home/juan/Downloads/test/node_modules/has-symbols/test/shams/core-js.js1651536237591214651 0
 64/home/juan/Downloads/test/node_modules/is-boolean-object/LICENSE1651536237567213953 0
 80/home/juan/Downloads/test/node_modules/@parcel/utils/src/generateBuildMetrics.js1651535516917949353 0
-47/home/juan/Downloads/test/dist/pages/about.html1651537855138035466 0
+47/home/juan/Downloads/test/dist/pages/about.html1651538239229481944 0
 73/home/juan/Downloads/test/node_modules/svgo/plugins/convertShapeToPath.js1651535517125995347 0
 81/home/juan/Downloads/test/node_modules/es-abstract/2021/OrdinaryGetPrototypeOf.js1651536238255233928 0
 68/home/juan/Downloads/test/node_modules/autoprefixer/lib/processor.js1651535964968684349 0
@@ -3757,7 +3757,7 @@
 66/home/juan/Downloads/test/node_modules/type-fest/source/entry.d.ts1651535516845933398 0
 78/home/juan/Downloads/test/node_modules/es-abstract/2021/OrdinaryHasProperty.js1651536238259234043 0
 72/home/juan/Downloads/test/node_modules/es-abstract/2015/MonthFromTime.js1651536238235233347 0
-44/home/juan/Downloads/test/tailwind.config.js1651536327353650428 0
+44/home/juan/Downloads/test/tailwind.config.js1651538122082089571 0
 93/home/juan/Downloads/test/node_modules/es-abstract/2021/ApplyStringOrNumericBinaryOperator.js1651536237975225806 0
 84/home/juan/Downloads/test/node_modules/caniuse-lite/data/features/css-containment.js1651535517658112816 0
 48/home/juan/Downloads/test/node_modules/nan/tools1651535517378050991 1
@@ -4303,7 +4303,7 @@
 69/home/juan/Downloads/test/node_modules/es-abstract/2021/InLeapYear.js1651536238127230215 0
 65/home/juan/Downloads/test/node_modules/postcss-minify-font-values1651535964792675141 1
 50/home/juan/Downloads/test/node_modules/object-hash1651535516609881099 1
-41/home/juan/Downloads/test/dist/index.html1651537552908055283 0
+41/home/juan/Downloads/test/dist/index.html1651538212596716675 0
 72/home/juan/Downloads/test/node_modules/es-abstract/2016/IteratorValue.js1651536238211232651 0
 53/home/juan/Downloads/test/node_modules/lmdb/prebuilds1651535517906167576 1
 59/home/juan/Downloads/test/node_modules/run-parallel/LICENSE1651535516285809298 0
@@ -4507,7 +4507,7 @@
 85/home/juan/Downloads/test/node_modules/@parcel/transformer-js/src/esmodule-helpers.js1651535516477851847 0
 82/home/juan/Downloads/test/node_modules/es-abstract/2016/SymbolDescriptiveString.js1651536238319235783 0
 65/home/juan/Downloads/test/node_modules/es-abstract/2018/modulo.js1651536238231233232 0
-58/home/juan/Downloads/test/src/assets/tailwind/tailwind.css1651537549027918655 0
+58/home/juan/Downloads/test/src/assets/tailwind/tailwind.css1651538238889472195 0
 60/home/juan/Downloads/test/node_modules/csso/lib/clean/Raw.js1651535517382051874 0
 73/home/juan/Downloads/test/node_modules/es-abstract/2021/StringToBigInt.js1651536238319235783 0
 58/home/juan/Downloads/test/node_modules/semver/CHANGELOG.md1651535516621883758 0
@@ -4552,7 +4552,7 @@
 67/home/juan/Downloads/test/node_modules/es-abstract/2018/ToObject.js1651536238371237292 0
 86/home/juan/Downloads/test/node_modules/@parcel/transformer-image/lib/validateConfig.js1651535516625884645 0
 73/home/juan/Downloads/test/node_modules/es-abstract/2020/NumberToBigInt.js1651536238243233580 0
-47/home/juan/Downloads/test/dist/test.59712999.js1651536378238904174 0
+47/home/juan/Downloads/test/dist/test.59712999.js1651538212476713219 0
 53/home/juan/Downloads/test/node_modules/postcss-nested1651535516413837664 1
 69/home/juan/Downloads/test/node_modules/es-abstract/2018/SplitMatch.js1651536238307235435 0
 74/home/juan/Downloads/test/node_modules/css-declaration-sorter/src/main.mjs1651535964848678071 0
@@ -6034,7 +6034,7 @@
 78/home/juan/Downloads/test/node_modules/tailwindcss/lib/util/buildMediaQuery.js1651535516933952899 0
 56/home/juan/Downloads/test/node_modules/is-string/.github1651536237687217439 1
 68/home/juan/Downloads/test/node_modules/cosmiconfig/dist/types.js.map1651535517065982099 0
-53/home/juan/Downloads/test/dist/index.af20ad6e.css.map1651537552920055706 0
+53/home/juan/Downloads/test/dist/index.af20ad6e.css.map1651538239241482288 0
 83/home/juan/Downloads/test/node_modules/@parcel/reporter-dev-server/src/HMRServer.js1651535516569872234 0
 78/home/juan/Downloads/test/node_modules/tailwindcss/lib/util/parseDependency.js1651535517874160510 0
 76/home/juan/Downloads/test/node_modules/tailwindcss/lib/util/resolveConfig.js1651535517886163160 0
@@ -6611,7 +6611,7 @@
 71/home/juan/Downloads/test/node_modules/lmdb/dependencies/lmdb/libraries1651535516593877553 1
 58/home/juan/Downloads/test/node_modules/postcss/lib/root.js1651535517021972384 0
 98/home/juan/Downloads/test/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_stat.c1651535517390053641 0
-52/home/juan/Downloads/test/dist/about.bf5eaa2b.js.map1651537552924055846 0
+52/home/juan/Downloads/test/dist/about.bf5eaa2b.js.map1651538212524714601 0
 90/home/juan/Downloads/test/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_stat.c1651535517394054524 0
 85/home/juan/Downloads/test/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb.c1651535517542087203 0
 89/home/juan/Downloads/test/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/COPYRIGHT1651535516853935171 0
